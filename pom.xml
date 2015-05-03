@@ -12,6 +12,12 @@
 
     <packaging>war</packaging>
 
+    <scm>
+        <connection>scm:git:git://github.com/igorp1024/unitedtraders-javatest</connection>
+        <developerConnection>scm:git:git://github.com/igorp1024/unitedtraders-javatest</developerConnection>
+        <url>https://github.com/igorp1024/unitedtraders-javatest.git</url>
+    </scm>
+
     <properties>
         <org.springframework.version>4.1.6.RELEASE</org.springframework.version>
         <org.springframework.security.version>4.0.1.RELEASE</org.springframework.security.version>
